@@ -1,0 +1,4 @@
+# Include the test requirements file
+-r base.txt
+
+ipython==6.2.1

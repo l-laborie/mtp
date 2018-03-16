@@ -86,6 +86,8 @@ celerybeat-schedule
 .venv
 venv/
 ENV/
+printmail_env/
+.idea/
 
 # Spyder project settings
 .spyderproject
